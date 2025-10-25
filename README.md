@@ -1,2 +1,0 @@
-# blockfall-privacy
-Privacy policy
